@@ -1,4 +1,25 @@
-# React + TypeScript + Vite
+# React + TypeScript + Vite + Zustand
+
+<p align="center">
+  <a href="https://es.react.dev/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png" width="150" alt="React Logo" /></a>
+  <a href="https://www.typescriptlang.org/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="150" alt="Typescript Logo" /></a>
+  <a href="https://vitejs.dev/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/2078px-Vitejs-logo.svg.png" width="150" alt="Vite Logo" /></a>
+  <a href="https://zustand-demo.pmnd.rs/" target="blank"><img src="https://tsh.io/wp-content/uploads/2023/02/zustand-logo.png" width=200" alt="Zustand Logo" /></a>
+</p>
+
+## About of the project
+
+practice project using zustand and data persistence in localstorage with react and typescript
+
+## Installation
+
+```bash
+$ npm install
+```
+
+```bash
+$ npm run dev
+```
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
